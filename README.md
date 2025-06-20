@@ -1,3 +1,5 @@
+# 2 Player Snake Battle Game
+
 🐍 Snake Battle – Human vs AI Showdown:
 
 Snake Battle is a strategic, two-player arcade game where a human-controlled snake competes against an AI-driven opponent within a dynamic grid-based environment. This project exemplifies intelligent behavior modeling, real-time decision-making, and adaptive pathfinding through algorithmic logic.
